@@ -1,7 +1,7 @@
 # Spaceship Registrar Module for WHMCS
 
 A full-featured WHMCS registrar module integrating the [Spaceship.com](https://www.spaceship.com) domain API.
-
+Developed by: [Mukdi.com](https://mukdi.com).
 ---
 
 ## Features
